@@ -1,0 +1,8 @@
+The following report details some stats about the data provided:
+
+The number of valid test scores is 7
+The number of invalid test scores is 3
+The highest valid test score is 96.0
+The lowest valid test score is 78.0
+The average of the valid test scores is 89.3
+The midrange of the valid test scores is 87.0

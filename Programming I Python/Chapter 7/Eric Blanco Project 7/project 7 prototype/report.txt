@@ -1,0 +1,32 @@
+This report shows the battiing average, on-base %, slugging %, OPS, runs produced, and runs per plate appearances of each player and the team in general.
+
+Altuve,J
+Batting average: 0.329
+
+Springer,G
+Batting average: 0.205
+
+Gurriel,Y
+Batting average: 0.250
+
+Brantley,M
+Batting average: 0.286
+
+Correa,C
+Batting average: 0.191
+
+Bregman,A
+Batting average: 0.234
+
+Alvarez,Y
+Batting average: 0.241
+
+Chirinos,R
+Batting average: 0.146
+
+Reddick,J
+Batting average: 0.167
+
+Maldonado,M
+Batting average: 0.300
+
